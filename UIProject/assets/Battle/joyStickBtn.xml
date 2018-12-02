@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200" extention="Button">
+  <Button/>
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
+  <displayList>
+    <image id="n0_cjsc" src="cjsc2" name="n0" xy="11,20">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width,height"/>
+    </image>
+    <image id="n1_cjsc" src="cjsc2" name="n1" xy="11,20">
+      <gearDisplay controller="button" pages="3"/>
+      <relation target="" sidePair="width,height"/>
+    </image>
+  </displayList>
+</component>

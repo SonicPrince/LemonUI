@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="w1pa1thu" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="i9vf0" name="BattleUI.xml" path="/" exported="true"/>
+    <image id="cjsc1" name="0.png" path="/image/"/>
+    <image id="cjsc2" name="1.png" path="/image/"/>
+    <component id="cjsc4" name="joyStickBtn.xml" path="/"/>
+    <component id="cjsc5" name="skillBtn.xml" path="/"/>
+  </resources>
+  <publish name="Battle"/>
+</packageDescription>
