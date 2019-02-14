@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0946an52" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="cb0k0" name="LoginUI.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

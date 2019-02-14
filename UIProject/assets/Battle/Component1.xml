@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="357,342" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <component id="n15_velp" name="n15" src="velp8" fileName="skillBtn.xml" xy="254,25"/>
+    <component id="n16_velp" name="n16" src="velp8" fileName="skillBtn.xml" xy="99,81"/>
+    <component id="n17_velp" name="n17" src="velp8" fileName="skillBtn.xml" xy="49,229"/>
+    <component id="n18_velp" name="n18" src="velp8" fileName="skillBtn.xml" xy="253,215"/>
+  </displayList>
+</component>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1366,768">
   <displayList>
-    <graph id="n0_cjsc" name="touchArea" xy="27,341" size="541,388" type="rect" lineColor="#ff00ff00" fillColor="#00666666">
+    <graph id="n0_cjsc" name="touchArea" xy="27,341" size="541,388" type="rect" lineSize="0" lineColor="#ff00ff00" fillColor="#00666666">
       <relation target="" sidePair="bottom-bottom"/>
     </graph>
     <image id="n1_cjsc" name="n1" src="cjsc1" fileName="image/0.png" xy="252,509">
@@ -10,17 +10,8 @@
     <component id="n3_cjsc" name="joyStick" src="cjsc4" fileName="joyStickBtn.xml" xy="186,449">
       <relation target="" sidePair="bottom-bottom"/>
     </component>
-    <component id="n4_cjsc" name="skill1" src="cjsc5" fileName="skillBtn.xml" xy="1209,390" size="100,98">
-      <relation target="" sidePair="right-right"/>
-    </component>
-    <component id="n7_cjsc" name="skill2" src="cjsc5" fileName="skillBtn.xml" xy="1051,475" size="100,98">
-      <relation target="" sidePair="right-right"/>
-    </component>
-    <component id="n8_cjsc" name="skill3" src="cjsc5" fileName="skillBtn.xml" xy="988,634" size="100,98">
-      <relation target="" sidePair="right-right"/>
-    </component>
-    <component id="n9_cjsc" name="skill4" src="cjsc5" fileName="skillBtn.xml" xy="1206,593" size="100,98">
-      <relation target="" sidePair="right-right"/>
+    <component id="n4_cjsc" name="n4" src="velp6" fileName="Component1.xml" xy="1148,550">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
     </component>
   </displayList>
 </component>

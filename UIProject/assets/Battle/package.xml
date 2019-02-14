@@ -5,7 +5,9 @@
     <image id="cjsc1" name="0.png" path="/image/"/>
     <image id="cjsc2" name="1.png" path="/image/"/>
     <component id="cjsc4" name="joyStickBtn.xml" path="/"/>
-    <component id="cjsc5" name="skillBtn.xml" path="/"/>
+    <component id="velp6" name="Component1.xml" path="/"/>
+    <component id="velp7" name="Component2.xml" path="/"/>
+    <component id="velp8" name="skillBtn.xml" path="/"/>
   </resources>
   <publish name="Battle"/>
 </packageDescription>

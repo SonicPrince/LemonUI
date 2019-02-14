@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1366,768" bgColor="#000000">
+  <displayList>
+    <graph id="n0_pt8w" name="n0" xy="0,0" size="1366,768" type="rect" fillColor="#ffcccccc"/>
+    <image id="n1_pt8w" name="logo" src="pt8w0" fileName="image/79253810245e616833585d6743fabe1b.png" xy="683,312" pivot="0.5,0.5" anchor="true" size="174,174" aspect="true">
+      <relation target="n0_pt8w" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n2_pt8w" name="n2" src="pt8w3" fileName="image/timg.png" xy="569,411" size="235,53" aspect="true"/>
+    <component id="n6_pt8w" name="progress" src="pt8w9" fileName="image/ProgressBar1.xml" xy="322,629">
+      <ProgressBar max="100"/>
+    </component>
+  </displayList>
+</component>

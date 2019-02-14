@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="k93xt00o" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="pt8w0" name="79253810245e616833585d6743fabe1b.png" path="/image/"/>
+    <component id="pt8w1" name="LoadingUI.xml" path="/" exported="true"/>
+    <image id="pt8w3" name="timg.png" path="/image/"/>
+    <image id="pt8w7" name="front.png" path="/image/"/>
+    <image id="pt8w8" name="bg.png" path="/image/"/>
+    <component id="pt8w9" name="ProgressBar1.xml" path="/image/"/>
+  </resources>
+  <publish name="Loading"/>
+</packageDescription>

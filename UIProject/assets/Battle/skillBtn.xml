@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="200,200" extention="Button">
+<component size="76,77" extention="Button">
   <Button/>
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver"/>
   <displayList>
-    <graph id="n0_cjsc" name="n0" xy="0,0" size="200,200" type="rect" lineSize="0" fillColor="#F0F0F0" touchable="false">
+    <image id="n0_velp" src="cjsc1" name="n0" xy="0,0">
       <gearDisplay controller="button" pages="0"/>
       <relation target="" sidePair="width,height"/>
-    </graph>
-    <graph id="n1_cjsc" name="n1" xy="0,0" size="200,200" type="rect" lineSize="0" fillColor="#FAFAFA" touchable="false">
+    </image>
+    <image id="n1_velp" src="cjsc2" name="n1" xy="-51,-41">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width,height"/>
+    </image>
+    <image id="n2_velp" src="cjsc1" name="n2" xy="0,0">
       <gearDisplay controller="button" pages="2"/>
       <relation target="" sidePair="width,height"/>
-    </graph>
-    <graph id="n2_cjsc" name="n2" xy="0,0" size="200,200" type="rect" lineSize="0" fillColor="#CCCCCC" touchable="false">
-      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <image id="n3_velp" src="cjsc2" name="n3" xy="-51,-41">
+      <gearDisplay controller="button" pages="3"/>
       <relation target="" sidePair="width,height"/>
-    </graph>
+    </image>
   </displayList>
 </component>
